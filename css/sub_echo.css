@@ -244,7 +244,8 @@ body {
 }
 
 #secondary_content h5 {
-   color: #00aaf0;
+   color: #798db6;
+	   /* #00aaf0; */
    font-size: 18px;
    font-family: GeogrotesqueReg, Helvetica, Arial, sans-serif;
    margin-bottom: 8px;
