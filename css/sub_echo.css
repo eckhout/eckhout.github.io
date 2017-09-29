@@ -38,12 +38,6 @@ body {
 	text-indent: -9999px;
 }
 
-/*
-#container h1 a:hover {
-   background-position-y: -104px;
-}
-*/
-
 #centerwell {
    position: relative;
    height: 177px;
@@ -150,7 +144,6 @@ body {
    padding-bottom: 135px;
 }
 
-
 #primary_content {
    padding-left: 205px;
    padding-top: 30px;
@@ -175,12 +168,6 @@ body {
    font-family: GeogrotesqueLight, Helvetica, Arial, sans-serif;
    letter-spacing: 1px;
 }
-
-/*
-#primary_content h2 a {
-   
-}
-*/
 
 #primary_content span.title.current {
    display: block;
@@ -245,7 +232,7 @@ body {
    top: 0;
    right: 0;
    width: 0px;
-   background: ;
+   background: 0px;
    padding-top: 0px;
    padding-left: 0px;
    padding-right: 0px;
