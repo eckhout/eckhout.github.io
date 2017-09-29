@@ -77,7 +77,7 @@ body {
 
 /* ADDING IMAGES PER SECTIONS FOR GLOBAL NAV*/
 #behance h3 {
-   background: url(/assets/red.gif) no-repeat white;
+   background: url(/assets/red_btn.gif) no-repeat white;
 }
 #behance p {
    background: url(/assets/behance_over_bg.gif) no-repeat;
@@ -181,7 +181,8 @@ body {
 #primary_content h1, 
 #primary_content h2, 
 #primary_content h3 {
-   color: #00aaf0;
+   color: #798db6;
+	   /* #00aaf0; */
 }
 
 #primary_content h3 {
@@ -262,31 +263,4 @@ body {
    color: #657381;
    line-height: 15px;
    margin-bottom: 15px;
-}
-
-#client_list {
-	font-size: 18px;
-	letter-spacing: 1px;
-    font-family: GeogrotesqueReg, Helvetica, Arial, sans-serif;
-	margin-bottom: 12px;
-	margin-top: 40px;
-	color: #00aaf0;
-}
-
-#client_names {
-   float: left;
-   width: 200px;
-   margin: 0;
-   padding: 0;
-   list-style: none;
-   color: #657381;
-   line-height: 16px;
-   margin-bottom: 10px;
-}
-
-#client_names li {
-  float: left;
-  width: 10em;
-  margin: 0;
-  padding: 0;
 }
