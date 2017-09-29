@@ -34,7 +34,7 @@ body {
    display: block;
    width: 210px; height: 104px;
    margin-left: 130px;
-	background: url(/assets/logo.png);
+	background: url(/assets/logo_2.png);
 	text-indent: -9999px;
 }
 
@@ -77,7 +77,7 @@ body {
 
 /* ADDING IMAGES PER SECTIONS FOR GLOBAL NAV*/
 #behance h3 {
-   background: url(/assets/behance_btn.gif) no-repeat white;
+   background: url(/assets/red.gif) no-repeat white;
 }
 #behance p {
    background: url(/assets/behance_over_bg.gif) no-repeat;
