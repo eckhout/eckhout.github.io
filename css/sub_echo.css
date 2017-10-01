@@ -77,59 +77,59 @@ body {
 
 /* ADDING IMAGES PER SECTIONS FOR GLOBAL NAV*/
 #behance h3 {
-   background: url(/assets/behance_btn.gif) no-repeat white;
+   background: url(/assets/1_btn.gif) no-repeat white;
 }
 #behance p {
    background: url(/assets/behance_over_bg.gif) no-repeat;
 }
 
 #flicker h3 {
-   background: url(/assets/flickr_btn.gif) no-repeat;
+   background: url(/assets/10.gif) no-repeat;
 }
 #flicker p {
-   background: url(/assets/flickr_over_bg.gif) no-repeat;
+   background: url() no-repeat;
 }
 
 #linkedin h3 {
-   background: url(/assets/linkedin_btn.gif) no-repeat;
+   background: url(/assets/3_btn.gif) no-repeat;
 }
 #linkedin p {
-   background: url(/assets/linkedin_over_bg.gif) no-repeat;
+   background: url() no-repeat;
 }
 
 #facebook h3 {
-   background: url(/assets/org_btn.gif) no-repeat;
+   background: url(/assets/4_btn.gif) no-repeat;
 }
 #facebook p {
-   background: url(/assets/flickr_over_bg.gif) no-repeat;
+   background: url() no-repeat;
 }
 
 #twitter h3 {
-   background: url(/assets/grn_btn.gif) no-repeat;
+   background: url(/assets/9_btn.gif) no-repeat;
 }
 #twitter p {
-   background: url(/assets/behance_over_bg.gif) no-repeat;
+   background: url() no-repeat;
 }
 
 #resume h3 {
-   background: url(/assets/resume_btn.gif) no-repeat;
+   background: url(/assets/6_btn.gif) no-repeat;
 }
 #resume p {
-   background: url(/assets/resume_over_bg.gif) no-repeat;
+   background: url() no-repeat;
 }
 
 #email h3 {
-   background: url(/assets/email_btn.gif) no-repeat;
+   background: url(/assets/7_btn.gif) no-repeat;
 }
 #email p {
-   background: url(/assets/email_over_bg.gif) no-repeat;
+   background: url() no-repeat;
 }
 
 #contact h3 {
-   background: url(/assets/contact_btn.gif) no-repeat;
+   background: url(/assets/8_btn.gif) no-repeat;
 }
 #contact p {
-   background: url(/assets/contact_over_bg.gif) no-repeat;
+   background: url() no-repeat;
 }
 
 /* END */
