@@ -76,11 +76,11 @@ body {
 }
 
 /* ADDING IMAGES PER SECTIONS FOR GLOBAL NAV*/
-#behance h3 {
+#github h3 {
    background: url(/assets/1_btn.gif) no-repeat white;
 }
-#behance p {
-   background: url(/assets/behance_over_bg.gif) no-repeat;
+#github p {
+   background: url() no-repeat;
 }
 
 #flicker h3 {
@@ -134,7 +134,7 @@ body {
 
 /* END */
 
-#behance {
+#github {
    margin-left: 206px; 
 }
 

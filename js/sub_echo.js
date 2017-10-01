@@ -49,8 +49,8 @@ $(document).ready(function(){
       	}, 300, function() {
       })
    }, function() {
-      $('.morph').stop().animate({'color': '#00aaf0'}, 400);
-      $('.morph_alt').stop().animate({'color': '#00aaf0'}, 400);
+      $('.morph').stop().animate({'color': '#798db6'}, 400);
+      $('.morph_alt').stop().animate({'color': '#798db6'}, 400);
       $('#content, h1').stop().animate({opacity: "1"});
    	$(this).stop().animate({
       	width: "72px"
