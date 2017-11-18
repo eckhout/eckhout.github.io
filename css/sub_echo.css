@@ -104,37 +104,9 @@ body {
    background: url() no-repeat;
 }
 
-#twitter h3 {
-   background: url(/assets/blu_btn_sml.gif) no-repeat;
-}
-#twitter p {
-   background: url() no-repeat;
-}
-
-#resume h3 {
-   background: url(/assets/6_btn.gif) no-repeat;
-}
-#resume p {
-   background: url() no-repeat;
-}
-
-#email h3 {
-   background: url(/assets/7_btn.gif) no-repeat;
-}
-#email p {
-   background: url() no-repeat;
-}
-
-#contact h3 {
-   background: url(/assets/8_btn.gif) no-repeat;
-}
-#contact p {
-   background: url() no-repeat;
-}
-
 /* END */
 
-#github {
+#btn1 {
    margin-left: 206px; 
 }
 
