@@ -40,14 +40,14 @@ body {
 
 #centerwell {
    position: relative;
-   height: 177px;
+   height: 72px;
    background: #3d464e;
    overflow: hidden;
 }
 
 #centerwell li  {
    position: relative;
-   width: 72px; height: 177px;
+   width: 72px; height: 72px;
    float: left;
    border-right: #3d464e 1px solid;
    background: white;
@@ -76,36 +76,36 @@ body {
 }
 
 /* ADDING IMAGES PER SECTIONS FOR GLOBAL NAV*/
-#github h3 {
-   background: url(/assets/1_btn.gif) no-repeat white;
+#btn1 h3 {
+   background: url(/assets/blu_btn_sml.gif) no-repeat white;
 }
-#github p {
+#btn1 p {
    background: url() no-repeat;
 }
 
-#flicker h3 {
-   background: url(/assets/10.gif) no-repeat;
+#btn2 h3 {
+   background: url(/assets/grn_btn_sml.gif) no-repeat;
 }
-#flicker p {
+#btn2 p {
    background: url() no-repeat;
 }
 
-#linkedin h3 {
-   background: url(/assets/3_btn.gif) no-repeat;
+#btn3 h3 {
+   background: url(/assets/ppl_btn_sml.gif) no-repeat;
 }
-#linkedin p {
+#btn3 p {
    background: url() no-repeat;
 }
 
-#facebook h3 {
-   background: url(/assets/4_btn.gif) no-repeat;
+#btn4 h3 {
+   background: url(/assets/red_btn_sml.gif) no-repeat;
 }
-#facebook p {
+#btn4 p {
    background: url() no-repeat;
 }
 
 #twitter h3 {
-   background: url(/assets/9_btn.gif) no-repeat;
+   background: url(/assets/blu_btn_sml.gif) no-repeat;
 }
 #twitter p {
    background: url() no-repeat;
