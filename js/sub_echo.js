@@ -24,10 +24,10 @@ $(document).ready(function(){
                $('#container h1').stop().animate({
                   opacity: "1"
                });
-            })
-         })
-      })
-   })
+            });
+         });
+      });
+   });
    
    // EVENTS
     $('#centerwell li').click(function() {
@@ -43,11 +43,11 @@ $(document).ready(function(){
       $(this).stop().animate({
       	width: "318px"
       	}, 300, function() {
-      })
+      });
       $(this).find('h3').stop().animate({
       	backgroundPosition: "-72px"
       	}, 300, function() {
-      })
+      });
    }, function() {
       $('.morph').stop().animate({'color': '#798db6'}, 400);
       $('.morph_alt').stop().animate({'color': '#798db6'}, 400);
@@ -55,10 +55,10 @@ $(document).ready(function(){
    	$(this).stop().animate({
       	width: "72px"
       	}, 300, function() {
-      })
+      });
       $(this).find('h3').stop().animate({
       	backgroundPosition: "0px"
       	}, 300, function() {
-      })
-   })
+      });
+   });
 });
